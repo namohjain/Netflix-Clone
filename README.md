@@ -4,4 +4,4 @@ This is a attempt to make netflix site by using html5,css3. Note that it is just
 
 There is lots of works to be done to make it look realistic. 😄
 
-Have a look here. 
+Have a look here. https://github.com/namohjain/Netflix-Clone
